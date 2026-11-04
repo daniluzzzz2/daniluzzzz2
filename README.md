@@ -1,4 +1,4 @@
-### Conta Principal Suspensa sem Motivo, Suporte não entrou em contato desde 8 dias atrás
+### Conta Principal Suspensa sem Motivo, Suporte não entrou em contato desde 9 dias atrás
 ![Perfil Original](contaoriginal.png)
 ### Sobre mim
 Estudo Desenvolvimento de Sistemas no IFSP, aprofundando lógica de programação, web e boas práticas de versionamento. Crio jogos com foco em código, sistemas e arte pixel.
